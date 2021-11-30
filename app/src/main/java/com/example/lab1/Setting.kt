@@ -19,6 +19,7 @@ class Setting : AppCompatActivity() {
         Log.d("Setting:Severina.polina", "onStart")
     }
 
+
     override fun onResume() {
         super.onResume()
         Log.d("Setting:Severina.polina", "onResume")
