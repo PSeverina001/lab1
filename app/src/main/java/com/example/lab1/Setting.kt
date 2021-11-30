@@ -13,6 +13,7 @@ class Setting : AppCompatActivity() {
         setContentView(R.layout.activity_setting)
         Log.d("Setting:Severina.polina", "onCreate")
 
+
     }
     override fun onStart() {
         super.onStart()
